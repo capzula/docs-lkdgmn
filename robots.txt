@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fszkt3.salamduit.sbs/sitemap.xml
